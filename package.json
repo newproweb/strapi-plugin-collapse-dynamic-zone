@@ -1,0 +1,29 @@
+{
+  "name": "strapi-plugin-collapse-dynamic-zone",
+  "version": "1.0.0",
+  "description": "Get dynamic zone components collapsed by default",
+  "strapi": {
+    "name": "collapse-dynamic-zone",
+    "displayName": "Collapse Dynamic Zone",
+    "description": "Keep your dynamic zone components collapsed by default",
+    "kind": "plugin"
+  },
+  "author": {
+    "name": "NewProWeb<Abror Abdullaev>",
+    "email": "abror.abdullaev@newproweb.com"
+  },
+  "peerDependencies": {
+    "@strapi/strapi": "^4.0.0"
+  },
+  "maintainers": [
+    {
+      "name": "NewProWeb Community",
+      "email": "abror.abdullaev@newproweb.com"
+    }
+  ],
+  "engines": {
+    "node": ">=12.x. <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
